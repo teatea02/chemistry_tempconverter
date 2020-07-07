@@ -1,3 +1,3 @@
-Chemistry Concentration Calculator
-made with python3
+# Chemistry Concentration Calculator  
+made with python3  
 tkinter library required

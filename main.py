@@ -1,4 +1,4 @@
-#tkinter chemistry calculation
+#tkinter chemistry calculation software
 #2019.06.02 30811 남태욱
 
 from tkinter import *
